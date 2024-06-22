@@ -1,0 +1,15 @@
+Medical Parcel [from X700Y30 to X200Y235] - ID: 15 Price: 27.00 Biohazard Level: 10
+Medical Parcel [from X700Y30 to X200Y235] - ID: 14 Price: 21.00 Biohazard Level: 8
+Medical Parcel [from X200Y235 to X700Y30] - ID: 10 Price: 18.00 Biohazard Level: 7
+Medical Parcel [from X200Y440 to X700Y30] - ID: 4 Price: 24.00 Biohazard Level: 9
+Medical Parcel [from X700Y440 to X700Y30] - ID: 3 Price: 12.00 Biohazard Level: 5
+Tracked Parcel [from X700Y30 to X450Y30] - ID: 13 Price: 3.00 Locations: X700Y30,X450Y30
+Tracked Parcel [from X450Y440 to X200Y30] - ID: 9 Price: 6.00 Locations: X450Y440,X450Y235,X450Y30,X200Y30
+Tracked Parcel [from X700Y235 to X700Y440] - ID: 8 Price: 3.00 Locations: X700Y235,X700Y440
+Tracked Parcel [from X700Y30 to X450Y440] - ID: 7 Price: 4.50 Locations: X700Y30,X450Y235,X450Y440
+Tracked Parcel [from X200Y30 to X700Y440] - ID: 1 Price: 10.50 Locations: X200Y30,X200Y235,X200Y440,X450Y440,X450Y235,X700Y235,X700Y440
+Standard Parcel [from X700Y440 to X700Y235] - ID: 12 Price: 1.25 Weight: 1.00
+Standard Parcel [from X200Y440 to X200Y30] - ID: 11 Price: 5.00 Weight: 4.00
+Standard Parcel [from X450Y235 to X200Y440] - ID: 6 Price: 3.75 Weight: 3.00
+Standard Parcel [from X200Y235 to X700Y235] - ID: 5 Price: 2.50 Weight: 2.00
+Standard Parcel [from X450Y30 to X450Y235] - ID: 2 Price: 1.25 Weight: 1.00
